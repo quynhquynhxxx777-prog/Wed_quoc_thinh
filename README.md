@@ -1,4 +1,3 @@
-# Wed_quoc_thinh
 git clone https://github.com/quynhquynhxxx777-prog/Wed_quoc_thinh.git
 cd 
 less README-zh.md
