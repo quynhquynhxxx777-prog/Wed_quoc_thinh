@@ -1,7 +1,6 @@
 # Wed_quoc_thinh
 git clone https://github.com/quynhquynhxxx777-prog/Wed_quoc_thinh.git
-cd Wed_quoc_thinh
-# read the Chinese README
+cd 
 less README-zh.md
 # list image files
 ls -1 image_2026-01-11_*.png
